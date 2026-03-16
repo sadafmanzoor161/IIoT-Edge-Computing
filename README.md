@@ -12,7 +12,7 @@ The pipeline implements both **time-domain statistical analysis** and **frequenc
 
 | Path | Contents |
 |-----|-----|
-| `iot_timeseries_analysis.py` | Main analysis pipeline script |
+| `IIoT edge computing_data analysis.py` | Main analysis pipeline script |
 | `Iot dataset.csv` | Raw IoT dataset with timestamped sensor readings |
 | `iot_analysis_output/` | Generated plots and statistical analysis results |
 | `descriptive_statistics.csv` | Statistical summary of sensor variables |
